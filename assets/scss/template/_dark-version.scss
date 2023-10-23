@@ -153,7 +153,7 @@
     }
     
     .header-area.color-black a.btn-default.btn-border.btn-opacity:hover {
-        color: var(--color-white);
+        color: #000000;
         border-color: var(--color-primary);
     }
     .im_address .link {
@@ -244,12 +244,12 @@
 
 .active-dark a.btn-default.btn-border.btn-opacity, 
 .active-dark button.btn-default.btn-border.btn-opacity {
-    border: 2px solid #000000;
-    color: #000000 !important;
+    border: 2px solid #ffffff;
+    color: #ffffff !important;
 }
 
 .active-dark .header-area.header--fixed.default-color.sticky .mainmenunav ul.mainmenu>li>a {
-    color: #ffff;
+    color: #000000;
 }
 
 

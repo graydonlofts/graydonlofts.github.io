@@ -212,8 +212,8 @@ button {
 
         &.btn-border {
             background-color: transparent;
-            border: 2px solid var(--color-primary);
-            color: var(--color-primary);
+            border: 2px solid #ffffff;
+            color: var(--color-white);
             &.btn-opacity {
                 border: 2px solid var(--color-opacity-1);
                 color: var(--color-white);
@@ -222,7 +222,7 @@ button {
             &:hover {
                 color: var(--color-white);
                 border-color: var(--color-primary);
-                background-color: #ffffff;
+                background-color: #000000;
             }
 
             &.color-secondary {
@@ -257,12 +257,12 @@ button {
             }
             &.btn-border {
                 background-color: transparent;
-                border: 2px solid var(--color-dark);
+                border: 2px solid #ffffff;
                 color: var(--color-dark);
                 &:hover {
-                    color: var(--color-white);
+                    color: #000000;
                     border-color: var(--color-dark);
-                    background-color: var(--color-dark);
+                    background-color: #000000;
                 }
             }
         }

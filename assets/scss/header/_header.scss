@@ -319,10 +319,10 @@
             &.btn-default {
                 &.btn-border {
                     &.btn-opacity {
-                        color: #1d1d24;
+                        color: #ffffff;
                         border-color: #1d1d24;
                         &:hover {
-                            color: #ffffff;
+                            color: #000000;
                             border-color: var(--color-primary);
                         }
                     }
